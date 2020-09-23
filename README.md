@@ -10,7 +10,7 @@
 
 # Website for a friend
 
-So I need to make a website for a friend, but since it's October and I've got enough other repos to contribute to, I thought this would be a good repo for other beginners to contribute and get their PRs up :)
+So I need to make a website for a friend, but since it's October and I've got enough other repos to contribute to, I thought this would be a good repo for other beginners to contribute to and get their PRs up :)
 
 You are free to choose any framework, the aim is to make this repo as open and welcoming as possible.
 So, my friend offers software services and harddisk data recovery solutions. And that's what the website will have to advertise. 
