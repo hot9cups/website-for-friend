@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%">
+    </a>
+</p>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
+
 # Hacktoberfest 20!
 
 # Website for a friend
@@ -14,6 +22,8 @@ What I require is:
 
 I'm actually gonna stop right there, as I'd like to leave a lot of choices upto y'all, the design, stack, frameworks.
 So you're all welcome to make PRs, and in the end I'll choose one, and will credit you as a contributor :)
+
+Head over to [issues](https://github.com/hot9cups/website-for-friend/issues) and start contributing already :)
 
 License
 ----
