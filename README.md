@@ -15,3 +15,7 @@ What I require is:
 I'm actually gonna stop right there, as I'd like to leave a lot of choices upto y'all, the design, stack, frameworks.
 So you're all welcome to make PRs, and in the end I'll choose one, and will credit you as a contributor :)
 
+License
+----
+
+MIT
