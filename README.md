@@ -24,11 +24,9 @@ I'm actually gonna stop right there, as I'd like to leave a lot of choices upto 
 So you're all welcome to make PRs, and in the end I'll choose one, and will credit you as a contributor when we get the actual website up!
 I will nonetheless merge all PRs which are valid, working websites so your work doesn't go in vain :)
 
-Head over to [issues](https://github.com/hot9cups/website-for-friend/issues) and start contributing already :)
-
 Oh, and final note: About the format for making contributions, that's fairly simple. Just create another folder with all your work inside it, and push that directory right onto the master branch. You could name the folder with your name, github username or whatever you feel appropriate.
 
-Let's go!
+Head over to [issues](https://github.com/hot9cups/website-for-friend/issues) and start contributing already :)
 
 License
 ----
