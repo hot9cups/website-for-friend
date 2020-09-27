@@ -10,7 +10,7 @@
 
 # Website for a friend
 
-So I need to make a website for a friend, but since it's October and I've got enough other repos to contribute to, I thought this would be a good repo for other beginners to contribute to and get their PRs up :)
+So I need to make a website for a friend, but since it's October and I've got enough other repos to contribute to, I thought this would be a good repo for other beginners to contribute to and get their PR counts up :)
 
 You are free to choose any framework, the aim is to make this repo as open and welcoming as possible.
 So, my friend offers software services and harddisk data recovery solutions. And that's what the website will have to advertise. 
@@ -21,9 +21,14 @@ What I require is:
 2) Slick frontend. Doesn't have to be over the top, but shouldn't look like a website from the 90s ;)
 
 I'm actually gonna stop right there, as I'd like to leave a lot of choices upto y'all, the design, stack, frameworks.
-So you're all welcome to make PRs, and in the end I'll choose one, and will credit you as a contributor :)
+So you're all welcome to make PRs, and in the end I'll choose one, and will credit you as a contributor when we get the actual website up!
+I will nonetheless merge all PRs which are valid, working websites so your work doesn't go in vain :)
 
 Head over to [issues](https://github.com/hot9cups/website-for-friend/issues) and start contributing already :)
+
+Oh, and final note: About the format for making contributions, that's fairly simple. Just create another folder with all your work inside it, and push that directory right onto the master branch. You could name the folder with your name, github username or whatever you feel appropriate.
+
+Let's go!
 
 License
 ----
