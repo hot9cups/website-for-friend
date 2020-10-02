@@ -5,5 +5,16 @@
 
 	<body>
 		This is contact form
+		<br>
+		<br>
+		<form action='{% url "addcontact"%}'method='POST'>
+		{% csrf_token %}
+			Full Name: &nbsp;<input type="text" name="name"><br><br>
+			EmailID: &nbsp;<input type="text" name="email"><br><br>
+			Mobile Extension(country code): &nbsp;<input type="text" name="extension" placeholder='+91'>&nbsp;&nbsp;
+			Mobile Number: &nbsp;<input type="text" name="mobile"><br><br>
+			Message: &nbsp;<input type="text" name="message"><br><br>
+			<input type="submit" name="submit" value="Save Message">
+		</form>
 	</body>
 </html>

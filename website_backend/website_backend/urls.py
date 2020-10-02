@@ -21,7 +21,7 @@ urlpatterns = [
 
     #basic route
     path('', include('index.urls')),
-    path('dynamictech/contactform', include('contactform.urls')),
-    path('dynamictech/review', include('review.urls')),
-    path('dynamictech/home', include('index.urls')),
+    path('dynamictech/contact/', include('contactform.urls')),
+    path('dynamictech/review/', include('review.urls')),
+    path('dynamictech/home/', include('index.urls')),
 ]
