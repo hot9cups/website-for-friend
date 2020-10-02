@@ -1,0 +1,162 @@
+body{
+    background-color: azure;
+}
+
+#logo{
+    position: relative;
+    left: 470px;
+    top: 100px;
+}
+
+.navv{
+    background-image:linear-gradient(to bottom right,rgba(32, 178, 170,0.2),#198DA4);
+    font-family: 'Work Sans', sans-serif;
+    font-size:18px;
+  }
+  
+  .navbar-brand{
+      border-radius:5px;
+      animation: mymove 2s infinite;
+  }
+  
+  #white{
+      color:white;
+      font-family: 'Work Sans', sans-serif;
+  }
+  #white:hover{
+      background-color:#5D8AA8;
+      color:rgba(0,255,255,0.5);
+  }
+  
+  #moving-content{
+      position: relative;
+      padding-top:20px;
+      height:120px;
+      font-family: 'Work Sans', sans-serif;
+      font-size:40px;
+      font-weight:bold;
+      color:cyan;
+      background-color:#221f3b;
+      border-top:3px cyan solid;
+      border-bottom:10px cyan solid;
+  }
+  
+  ul{
+      padding:15px;
+  }
+  
+  #navitems{
+    color: white;
+    font-size:20px;
+    margin: auto 5px; 
+  }
+  
+  #navitems:hover{
+    color:#00FFFF;
+  }
+  
+  body,
+  html {
+      width: 100%;
+      height: 100%;
+  }
+  
+  body{
+      padding-top:0px;
+  }
+  
+  #content{
+      min-height: 600px;
+  }
+  
+  #banner_image {
+      padding-bottom: 50px;
+      text-align: center;
+      color: #f8f8f8;
+      background: url("../img/l1.jpg") no-repeat center;
+      background-size: cover;
+  }
+  
+  #banner_content {
+      position: relative;
+      padding-top: 6%;
+      padding-bottom: 6%;
+      margin-top: 12%;
+      margin-bottom: 12%;
+      background-color: rgba(0, 0, 0, 0.7);
+      max-width: 660px;
+      font-size:15px;
+      color:cyan;
+  
+  }
+  
+  #item_list {
+      padding-top: 50px;
+  }
+  
+  
+  #login-panel .panel-footer{
+      font-weight:normal;
+  }
+  
+  footer {
+      position: relative;
+      top: 500px;
+      padding: 10px 0;
+      background-color: #101010;
+      color:#9d9d9d;
+      bottom: 0;
+      width: 100%;
+  }
+  
+  .fadeIn{
+      animation: fadeIn 4s;
+  }
+  
+  .navv{
+      animation: fadeIn 0.5s;																									
+  }
+  
+  #moving-content{
+      animation: mymove 5s infinite;
+  }
+  
+  @keyframes fadeIn{
+      from{
+          opacity:0;
+      }
+      
+      to {
+          opacity:1;
+      }
+  }
+  
+  @keyframes mymove {
+    0%   {top: 300px; color: #00FF6F;}
+    25%  {top: 300px; color: cyan;}
+    50%  {top: 300px; color: yellow;}
+    75%  {top: 300px; color: #00FF6F;}
+    100% {top: 300px; color: red;}
+  }
+
+  
+  .thumbnail:hover{
+      animation:hovereffect 2s;
+  }
+  
+  @keyframes hovereffect{
+      from{
+          background-color:white;
+          border:solid 2px cyan;
+      }
+      
+      to {
+          background-color:cyan;
+          border:solid 2px #5D8AA8;
+      }
+  }
+  
+.thumbnail{
+    position: relative;
+    top:250px;
+}
