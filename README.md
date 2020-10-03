@@ -28,6 +28,8 @@ Oh, and final note: About the format for making contributions, that's fairly sim
 
 Head over to [issues](https://github.com/hot9cups/website-for-friend/issues) and start contributing already :)
 
+Note: Please don't submit bare html pages with reflects the minimal effort put in. I'm looking for a proper functional well-integrated website, this isn't a repo to spam html and css files.
+
 License
 ----
 
