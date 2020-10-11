@@ -33,4 +33,4 @@ Note: Please don't submit bare html pages with reflects the minimal effort put i
 License
 ----
 
-MIT
+Licensed under MIT
